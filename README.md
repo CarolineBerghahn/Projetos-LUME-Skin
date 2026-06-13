@@ -36,6 +36,7 @@
 **6. Criar uma branch: Cria uma nova branch para desenvolver uma funcionalidade sem alterar o código principal do projeto.**
 
 - Exemplo: git branch nome-da-branch
+- Exemplo para entrar na branch criada: git switch nome-da-branch
 - Exemplo de troca de branch: git checkout nome-da-branch
 
 <br>
