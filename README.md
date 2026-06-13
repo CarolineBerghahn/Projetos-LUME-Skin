@@ -3,7 +3,7 @@
 
 **1. Clonar um repositório: Comando utilizado para copiar um repositório existente de um projeto do GitHub para o computador.**
 
-Exemplo: git clone URL_DO_REPOSITORIO
+- 'Exemplo: git clone URL_DO_REPOSITORIO
 
 <br>
 
